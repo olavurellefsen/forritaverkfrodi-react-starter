@@ -9,15 +9,18 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            <i>ReactJS create-react-app + docker boilerplate</i> til Forritaverkfrøði
+          </p>
+          <p>
+            Rætta <code>src/App.js</code> og goym fyri at fáa nýggja útgávu.
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.setur.fo/fo/utbugving/bachelor/kt-verkfrodi/skeidslysingar/?educationYearId=493"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Skeiðslýsingar KT-verkfrøði - Náttúruvísindadeildin
           </a>
         </header>
       </div>
